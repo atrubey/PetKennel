@@ -13,7 +13,7 @@ public class Kennel {
 	 */
 	public void allSpeak() {
 		for (Pet a : petList) {
-			System.out.println(a.getName() + " " + a.speak());
+			System.out.println(a.getName() + " - " + a.speak());
 		}
 	}
 

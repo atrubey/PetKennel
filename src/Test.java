@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args) {
 
 		LoudDog lDog1 = new LoudDog("Ivy");
-		Cat cat1 = new Cat("Mittens");
+		Cat cat1 = new Cat("Snow");
 		Dog dog1 = new Dog("Kira");
 
 		ArrayList<Pet> petList = new ArrayList<Pet>();
